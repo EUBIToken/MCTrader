@@ -31,3 +31,7 @@ NOTE: currently, we only support session token logins.
 ![image](https://user-images.githubusercontent.com/55774978/162564830-3af6c25f-f019-42d2-adc9-7cae0ab02999.png)
 
 ![image](https://user-images.githubusercontent.com/55774978/162564937-cb7359a9-fe0e-4aee-a4ad-d32efb46154b.png)
+
+# How it works
+
+![image](https://user-images.githubusercontent.com/55774978/162565093-a8ee227e-d1a3-4efb-bc57-008bfbcc7d12.png)
